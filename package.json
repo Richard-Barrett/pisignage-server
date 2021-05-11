@@ -23,7 +23,7 @@
     "http-auth": "~2.2.5",
     "ip": "^1.1.0",
     "jade": "^1.9.2",
-    "lodash": "^3.5.0",
+    "lodash": "^4.17.21",
     "method-override": "~2.3.2",
     "mongoose": "4.7.2",
     "morgan": "~1.5.2",
